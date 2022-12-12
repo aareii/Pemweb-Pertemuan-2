@@ -1,0 +1,14 @@
+@media(min-width:671px) and (max-width:1024px){
+    .container-nav{
+        width: 100%;
+    }
+    .header{
+        width: 100%;
+    }
+}
+
+@media(min-width:370px) and (max-width:670px){
+    .container-nav{
+        width: 100%;
+    }
+}
